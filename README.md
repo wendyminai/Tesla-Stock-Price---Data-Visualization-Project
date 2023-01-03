@@ -13,7 +13,8 @@ You can view Tesla Stock Price Analytics Dashboard on my Tableau Public Profile 
 
 
 ##  Tesla Stock Price Analytics Dashboard
-<img width="1125" alt="Screen Shot 2023-01-03 at 11 22 04 AM" src="https://user-images.githubusercontent.com/111389636/210408724-b25ffcc0-5483-4c6b-942d-7d80ca44f64a.png">
+<img width="1093" alt="Screen Shot 2023-01-03 at 11 23 44 AM" src="https://user-images.githubusercontent.com/111389636/210408965-7fa986c5-3999-48ae-8266-41641467221b.png">
+
 
 
 
